@@ -19,9 +19,3 @@
 # Links importantes
 
 - [Projeto no Figma](https://www.figma.com/file/aThg9Ebolu2kepnjvP0eMl/Untitled?node-id=0%3A1/)
-
-#5D5FEF
-#888FD1
-#BDC3FD
-#F8FAFC
-#FFFFFF
