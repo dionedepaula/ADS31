@@ -1,3 +1,7 @@
+# Descrição
+
+Foi decidido em reunião feita pelo grupo, que cada integrante iria levar um tema de de sua preferência para a realização do projeto. Através de uma votação feita por todos, a ideia vencedora foi do integrante Carlos Henrique, onde o mesmo sugeriu a realização de um aplicativo mobile para impute de vendas de serviços de internet banda larga para vendedores PAP (Porta a porta).
+
 # Grupo 11
 * Integrantes
 
