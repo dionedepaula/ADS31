@@ -7,7 +7,7 @@ Foi decidido em reunião feita pelo grupo, que cada integrante iria levar um tem
 
    - Dione de Paula de Sousa Oliveira - 20114290064
    - Carlos Henrique Amaral - 20114900429
-   - Igor Alves Aquino - 1911429004
+   -  Igor Alves Aquino - 19114290044
    - Leonardo Kleber Lopes de Oliveira - 19214290021
    - Gabriel de Andrade Matos Rocha - 19214290006
    - Pablo Henrique Falcao da Silva - 20114290069
@@ -23,3 +23,5 @@ Foi decidido em reunião feita pelo grupo, que cada integrante iria levar um tem
 # Links importantes
 
 - [Projeto no Figma](https://www.figma.com/file/aThg9Ebolu2kepnjvP0eMl/Untitled?node-id=0%3A1/)
+- https://firebase.google.com/docs/web/setup#available-libraries
+Inicio do Backend com Firebase
